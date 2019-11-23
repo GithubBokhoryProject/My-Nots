@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18611422540",
+    "firebase_url": "https://mynots-ef231.firebaseio.com",
+    "project_id": "mynots-ef231",
+    "storage_bucket": "mynots-ef231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18611422540:android:687c62fc8e99661a7dbbe9",
+        "android_client_info": {
+          "package_name": "com.example.mynots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18611422540-1ongu8sd03ovusi6590qtq0gk37vcval.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mynots",
+            "certificate_hash": "28ed347161488945c436277e355d751bc94dc866"
+          }
+        },
+        {
+          "client_id": "18611422540-52s0mj5bpa63ikodrvd9bsf3msjfpri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-9hpS7QzpZZoLZZeVg1UoQMtEiOYDxCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18611422540-52s0mj5bpa63ikodrvd9bsf3msjfpri8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
